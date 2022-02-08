@@ -1,1 +1,1 @@
-# Customer-Segmentation-Analysis (Sprocket-Central) - KPMG
+# Customer-Segmentation-Analysis (Sprocket-Central) KPMG
